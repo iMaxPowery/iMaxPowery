@@ -1,28 +1,81 @@
-<h1 align="center">Hello there  👋</h1>
+<h1 align="center">Hugo dos Santos Lima</h1>
 
-## Hi! Also welcome my GitHub, my name is Hugo or nickname (iMax).
+<h3 align="center">Java Developer • Telecom FTTH • Artificial Intelligence</h3>
 
-- I’m currently working in my minecraft server.
+<p align="center">
+Passionate about software development, automation, telecommunications and intelligent solutions.
+</p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.*
+---
 
-## Languages
+## 👨‍💻 About Me
 
-[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
-[![Python](https://img.shields.io/badge/Python-3617FF?style=for-the-badge&logo=Python)](https://www.python.org/)
-[![C#](https://img.shields.io/badge/CSharp-04B404?style=for-the-badge&logo=C#)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-DF013A?style=for-the-badge&logo=javascript&logoColor=fff)](https://www.javascript.com/)
+- 💻 Software Developer since 2019
+- ☕ Java Developer
+- 📡 Telecommunications Technician (FTTH / GPON)
+- 🤖 Artificial Intelligence Enthusiast
+- 🔧 Experience with automation and systems integration
+- 🇧🇷 Based in Brazil
 
-## Bukkit Development
+---
 
-[![Java](https://img.shields.io/badge/Java-FF002B?style=for-the-badge&logo=Java)](https://oracle.com/java)
+## 🚀 Technologies
 
-<br />
-<br />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,git,docker" />
+</p>
 
-<a href="https://github.com/iMaxPowery">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iMaxPowery&theme=radical" />
-</a>
-<a href="https://github.com/iMaxPowery">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=iMaxPowery&show_icons=true&theme=radical&line_height=27" alt="iMaxPowery" />
-</a>
+---
+
+## 🎯 Areas of Expertise
+
+### Software Development
+
+- Java Applications
+- REST APIs
+- Database Integration
+- Process Automation
+- System Architecture
+
+### Telecommunications
+
+- FTTH Networks
+- GPON Infrastructure
+- Optical Fiber Systems
+- Network Monitoring
+- Technical Support
+
+### Artificial Intelligence
+
+- Intelligent Automation
+- Data Processing
+- AI Integrations
+- Workflow Optimization
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=iMaxPowery&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iMaxPowery&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contact
+
+📧 hugoslima22@gmail.com
+
+🌎 Brazil
+
+💼 Open to professional opportunities
+
+---
+
+<p align="center">
+Building technology that solves real-world problems.
+</p>
