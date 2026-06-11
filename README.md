@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iMaxPowery/iMaxPowery/main/Image%2010%20de%20jun.%20de%202026%2C%2022_17_47.png" width="100%">
+<img src="https://raw.githubusercontent.com/iMaxPowery/iMaxPowery/main/banner.png" width="100%">
 
 <h3 align="center">
 Java Developer • Telecom FTTH • Automation Solutions
@@ -6,24 +6,6 @@ Java Developer • Telecom FTTH • Automation Solutions
 
 <p align="center">
 Passionate about software development, telecommunications, automation and intelligent solutions.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iMaxPowery&color=0e75b6&style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git,ubuntu" />
-</p>
-
-<p align="center">
-
-![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
-![UDP](https://img.shields.io/badge/UDP-1565C0?style=for-the-badge)
-![FTTH](https://img.shields.io/badge/FTTH-00C853?style=for-the-badge)
-![GPON](https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge)
-
 </p>
 
 ---
@@ -50,13 +32,11 @@ Passionate about software development, telecommunications, automation and intell
 </p>
 
 <p align="center">
-
-![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
-![UDP](https://img.shields.io/badge/UDP-1565C0?style=for-the-badge)
-![FTTH](https://img.shields.io/badge/FTTH-00C853?style=for-the-badge)
-![GPON](https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge)
-
+  <img src="https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UDP-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FTTH-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge" />
 </p>
 
 ---
@@ -95,10 +75,10 @@ Passionate about software development, telecommunications, automation and intell
 ### 🐧 Linux Administration
 
 - Ubuntu Server
-- Shell Commands
 - Service Management
 - Networking
 - System Monitoring
+- Command Line Operations
 
 ---
 
@@ -112,7 +92,9 @@ Passionate about software development, telecommunications, automation and intell
 
 </div>
 
-<br>
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
