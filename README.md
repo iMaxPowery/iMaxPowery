@@ -16,6 +16,16 @@ Passionate about software development, telecommunications, automation and intell
   <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git,ubuntu" />
 </p>
 
+<p align="center">
+
+![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-1565C0?style=for-the-badge)
+![FTTH](https://img.shields.io/badge/FTTH-00C853?style=for-the-badge)
+![GPON](https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge)
+
+</p>
+
 ---
 
 ## 👨‍💻 About Me
