@@ -13,7 +13,17 @@ Passionate about software development, telecommunications, automation and intell
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git,ubuntu" />
+</p>
+
+<p align="center">
+
+![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-1565C0?style=for-the-badge)
+![FTTH](https://img.shields.io/badge/FTTH-00C853?style=for-the-badge)
+![GPON](https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge)
+
 </p>
 
 ---
@@ -22,7 +32,11 @@ Passionate about software development, telecommunications, automation and intell
 
 - 💻 Software Developer since 2019
 - ☕ Java Developer
+- 🐍 Python Developer
+- 🎯 C# Developer
+- 🐧 Linux Ubuntu User
 - 📡 Telecommunications Technician (FTTH / GPON)
+- 🌐 Knowledge of TCP/IP, DHCP and UDP protocols
 - 🔧 Experience with automation and systems integration
 - 🚀 Passionate about technology and innovation
 - 🇧🇷 Based in Brazil
@@ -32,7 +46,17 @@ Passionate about software development, telecommunications, automation and intell
 ## 🚀 Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git,ubuntu" />
+</p>
+
+<p align="center">
+
+![DHCP](https://img.shields.io/badge/DHCP-0A66C2?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1E88E5?style=for-the-badge)
+![UDP](https://img.shields.io/badge/UDP-1565C0?style=for-the-badge)
+![FTTH](https://img.shields.io/badge/FTTH-00C853?style=for-the-badge)
+![GPON](https://img.shields.io/badge/GPON-00ACC1?style=for-the-badge)
+
 </p>
 
 ---
@@ -42,6 +66,8 @@ Passionate about software development, telecommunications, automation and intell
 ### 💻 Software Development
 
 - Java Applications
+- Python Applications
+- C# Applications
 - REST APIs
 - Database Integration
 - Process Automation
@@ -51,6 +77,9 @@ Passionate about software development, telecommunications, automation and intell
 
 - FTTH Networks
 - GPON Infrastructure
+- TCP/IP Networking
+- DHCP Configuration
+- UDP Communication
 - Optical Fiber Systems
 - Network Monitoring
 - Technical Support
@@ -58,10 +87,18 @@ Passionate about software development, telecommunications, automation and intell
 ### ⚙️ Automation Solutions
 
 - Process Automation
-- Data Processing
 - Systems Integration
 - Workflow Optimization
+- Data Processing
 - Operational Efficiency
+
+### 🐧 Linux Administration
+
+- Ubuntu Server
+- Shell Commands
+- Service Management
+- Networking
+- System Monitoring
 
 ---
 
@@ -75,23 +112,11 @@ Passionate about software development, telecommunications, automation and intell
 
 </div>
 
----
-
-## 📈 Activity Graph
+<br>
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iMaxPowery&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=iMaxPowery&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
