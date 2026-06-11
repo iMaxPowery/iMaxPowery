@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/iMaxPowery/iMaxPowery/main/Image%2010%20de%20jun.%20de%202026%2C%2022_17_47.png" width="100%">
+
 <h1 align="center">Hugo dos Santos Lima</h1>
 
 <h3 align="center">Java Developer • Telecom FTTH • Artificial Intelligence</h3>
@@ -21,15 +23,15 @@ Passionate about software development, automation, telecommunications and intell
 
 ## 🚀 Technologies
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,git,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,cs,javascript,mysql,docker,git" />
 </p>
 
 ---
 
 ## 🎯 Areas of Expertise
 
-### Software Development
+### 💻 Software Development
 
 - Java Applications
 - REST APIs
@@ -37,7 +39,7 @@ Passionate about software development, automation, telecommunications and intell
 - Process Automation
 - System Architecture
 
-### Telecommunications
+### 📡 Telecommunications
 
 - FTTH Networks
 - GPON Infrastructure
@@ -45,7 +47,7 @@ Passionate about software development, automation, telecommunications and intell
 - Network Monitoring
 - Technical Support
 
-### Artificial Intelligence
+### 🤖 Artificial Intelligence
 
 - Intelligent Automation
 - Data Processing
@@ -76,6 +78,8 @@ Passionate about software development, automation, telecommunications and intell
 
 ---
 
-<p align="center">
-Building technology that solves real-world problems.
-</p>
+<div align="center">
+
+### Building technology that solves real-world problems.
+
+</div>
