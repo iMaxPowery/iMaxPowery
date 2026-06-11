@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/iMaxPowery/iMaxPowery/main/banner.png" width="100%">
+<img src="https://raw.githubusercontent.com/iMaxPowery/iMaxPowery/main/Image%2010%20de%20jun.%20de%202026%2C%2022_17_47.png" width="100%">
 
 <h3 align="center">
 Java Developer • Telecom FTTH • Automation Solutions
